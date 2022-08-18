@@ -13,3 +13,4 @@
 * [10 Other Resources](10-other-resources.md)
 * [11 Key Decision Log](11-key-decision-log.md)
 * [12 Future Considerations](12-future-considerations.md)
+* [Contributing](contributing.md)
